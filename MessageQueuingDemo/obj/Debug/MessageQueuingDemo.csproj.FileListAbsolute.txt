@@ -1,0 +1,7 @@
+C:\Users\javen\source\repos\MessageQueuingDemo\bin\Debug\MessageQueuingDemo.exe.config
+C:\Users\javen\source\repos\MessageQueuingDemo\bin\Debug\MessageQueuingDemo.exe
+C:\Users\javen\source\repos\MessageQueuingDemo\bin\Debug\MessageQueuingDemo.pdb
+C:\Users\javen\source\repos\MessageQueuingDemo\obj\Debug\MessageQueuingDemo.csproj.AssemblyReference.cache
+C:\Users\javen\source\repos\MessageQueuingDemo\obj\Debug\MessageQueuingDemo.csproj.CoreCompileInputs.cache
+C:\Users\javen\source\repos\MessageQueuingDemo\obj\Debug\MessageQueuingDemo.exe
+C:\Users\javen\source\repos\MessageQueuingDemo\obj\Debug\MessageQueuingDemo.pdb
