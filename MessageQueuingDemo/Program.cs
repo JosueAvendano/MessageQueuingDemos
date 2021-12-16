@@ -7,13 +7,15 @@ namespace MessageQueuingDemo
     {
         static void Main(string[] args)
         {
-            //Revisa si ya existen colas en las cola "queue"
+            //Revisa si ya existen en las colas privadas en la cola "queue"
             MessageQueue messageQueue = null;
             if (MessageQueue.Exists(@".\private$\queue"))
             {
                 messageQueue = new MessageQueue(@".\private$\queue");
+                //El label de la carpeta de queue se va a llamar testing queue -> cola de prueba
                 messageQueue.Label = "testing queue";
             }
+            //Si no existe una cola, me la crea dentro de la ruta de \private\queue y le coloco un label a la cola, un titulo y un mensaje
             else
             {
                 MessageQueue.Create(@".\private$\queue");
