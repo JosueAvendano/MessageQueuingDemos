@@ -1,0 +1,10 @@
+C:\Users\javen\source\repos\MSMQWithWindowsForms\bin\Debug\MSMQWithWindowsForms.exe.config
+C:\Users\javen\source\repos\MSMQWithWindowsForms\bin\Debug\MSMQWithWindowsForms.exe
+C:\Users\javen\source\repos\MSMQWithWindowsForms\bin\Debug\MSMQWithWindowsForms.pdb
+C:\Users\javen\source\repos\MSMQWithWindowsForms\obj\Debug\MSMQWithWindowsForms.csproj.AssemblyReference.cache
+C:\Users\javen\source\repos\MSMQWithWindowsForms\obj\Debug\MSMQWithWindowsForms.Form1.resources
+C:\Users\javen\source\repos\MSMQWithWindowsForms\obj\Debug\MSMQWithWindowsForms.Properties.Resources.resources
+C:\Users\javen\source\repos\MSMQWithWindowsForms\obj\Debug\MSMQWithWindowsForms.csproj.GenerateResource.cache
+C:\Users\javen\source\repos\MSMQWithWindowsForms\obj\Debug\MSMQWithWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\javen\source\repos\MSMQWithWindowsForms\obj\Debug\MSMQWithWindowsForms.exe
+C:\Users\javen\source\repos\MSMQWithWindowsForms\obj\Debug\MSMQWithWindowsForms.pdb
